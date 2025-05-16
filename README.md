@@ -15,13 +15,16 @@ Sebuah sistem pemesanan tiket bioskop online berbasis web yang dibangun mengguna
 ## 🖼 Screenshot Aplikasi
 
 ### Halaman Utama
-![index](https://github.com/user-attachments/assets/90a6b30b-d2f4-4f06-8eac-d91ddea1c6f6)
+![index](https://github.com/user-attachments/assets/9ff2629a-da46-4a33-b239-6b4bcc43cf21)
+
 
 ### Form Pemesanan
-![form](https://github.com/user-attachments/assets/70673663-5e2e-4ad7-8be8-7f44864e974b)
+![form](https://github.com/user-attachments/assets/609113aa-7cfb-4192-8560-64d81c7c2a6f)
+
 
 ### Struk Transaksi
-![struk](https://github.com/user-attachments/assets/76f3c337-0cfe-41fb-b903-ffdd768d7b5f)
+![struk](https://github.com/user-attachments/assets/3a6b5a79-4d96-4953-b0fa-942763c82fc9)
+
 
 ## 🛠 Teknologi yang Digunakan
 
